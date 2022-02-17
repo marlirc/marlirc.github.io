@@ -5,7 +5,7 @@ PhD student at:
 - Prof. Dr. [Fernando Garcia's group](https://sites.google.com/site/ferton/home?authuser=0) <br />
 Department of Applied Physics, Institute of Physics, University of São Paulo, Brazil
 
-- IPE group <br /> Brazilian Synchrotron Light Laboratory [(LNLS)](https://www.lnls.cnpem.br/), National Center for Research on Energy and Materials (CNPEM), Campinas, Brazil
+- [IPE group](https://www.lnls.cnpem.br/facilities/ipe-en/) <br /> Brazilian Synchrotron Light Laboratory (LNLS), National Center for Research on Energy and Materials (CNPEM), Campinas, Brazil
 
 - With doctoral stay at [Claude Monney's group](https://sites.google.com/view/group-monney/home) at University of Fribourg, Switzerland
 
