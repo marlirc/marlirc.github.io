@@ -12,8 +12,11 @@ Department of Applied Physics, Institute of Physics, University of São Paulo, B
 - With doctoral stay at [Claude Monney's group](https://sites.google.com/view/group-monney/home) at University of Fribourg, Switzerland
 
 
-<br><hr>
+<hr>
+
 ### Where to find me:
+
+<br>
 
 [Lattes](http://lattes.cnpq.br/3704780601342272)
 
