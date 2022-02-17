@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Marli dos Reis Cantarino
 
-You can use the [editor on GitHub](https://github.com/marlirc/marlirc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](selfie_lab_unifr.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PhD student at:
 
-### Markdown
+- Prof. Dr. [Fernando Garcia's group](https://sites.google.com/site/ferton/home?authuser=0) <br />
+Department of Applied Physics, Institute of Physics, University of São Paulo, Brazil
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- IPE group <br /> Brazilian Synchrotron Light Laboratory [(LNLS)](www.lnls.br), National Center for Research on Energy and Materials (CNPEM), Campinas, Brazil
 
-```markdown
-Syntax highlighted code block
+- With doctoral stay at [Claude Monney's group](https://sites.google.com/view/group-monney/home) at University of Fribourg, Switzerland
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<br><hr>
+### Where to find me:
 
-1. Numbered
-2. List
+[Lattes](http://lattes.cnpq.br/3704780601342272)
 
-**Bold** and _Italic_ and `Code` text
+[ORCID](http://lattes.cnpq.br/3704780601342272)
 
-[Link](url) and ![Image](src)
-```
+[Google Scholar](https://scholar.google.com.br/citations?user=sDjkm3YAAAAJ&hl=pt-BR)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[LikedIn](https://www.linkedin.com/in/marlic/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marlirc/marlirc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr>
