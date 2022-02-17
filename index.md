@@ -1,5 +1,3 @@
-## Marli dos Reis Cantarino
-
 ![Image](selfie_lab_unifr.jpg)
 
 PhD student at:
