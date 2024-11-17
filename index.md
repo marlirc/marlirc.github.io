@@ -1,5 +1,8 @@
 ![Image](selfie_lab_unifr.jpg)
+Postdoc at:
 
+- [ID32 beamline](https://www.esrf.fr/ID32) of the European Synchrotron (ESRF)
+  
 PhD student at:
 
 - Prof. Dr. [Fernando Garcia's group](https://sites.google.com/site/ferton/home?authuser=0) <br />
@@ -7,7 +10,7 @@ Department of Applied Physics, Institute of Physics, University of São Paulo, B
 
 - [IPE group](https://www.lnls.cnpem.br/facilities/ipe-en/) <br /> Brazilian Synchrotron Light Laboratory (LNLS), National Center for Research on Energy and Materials (CNPEM), Campinas, Brazil
 
-- With doctoral stay at [Claude Monney's group](https://sites.google.com/view/group-monney/home) at University of Fribourg, Switzerland
+- With a doctoral stay at [Claude Monney's group](https://sites.google.com/view/group-monney/home) at the University of Fribourg, Switzerland
 
 
 <hr>
@@ -15,6 +18,7 @@ Department of Applied Physics, Institute of Physics, University of São Paulo, B
 ### Where to find me:
 
 <br>
+[Web of Science](https://www.webofscience.com/wos/author/record/R-9001-2017)
 
 [Lattes](http://lattes.cnpq.br/3704780601342272)
 
