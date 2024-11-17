@@ -18,7 +18,8 @@ Department of Applied Physics, Institute of Physics, University of São Paulo, B
 ### Where to find me:
 
 <br>
-[Web of Science](https://www.webofscience.com/wos/author/record/R-9001-2017)
+
+[Web of Science](https://www.webofscience.com/wos/author/record/R-9001-2017))
 
 [Lattes](http://lattes.cnpq.br/3704780601342272)
 
