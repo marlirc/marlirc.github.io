@@ -21,7 +21,7 @@ Department of Applied Physics, Institute of Physics, University of São Paulo, B
 
 [Web of Science](https://www.webofscience.com/wos/author/record/R-9001-2017)
 
-[Lattes]((http://lattes.cnpq.br/3704780601342272)
+[Lattes](http://lattes.cnpq.br/3704780601342272)
 
 [ORCID](https://orcid.org/0000-0002-6551-5481)
 
