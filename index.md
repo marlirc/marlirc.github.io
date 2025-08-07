@@ -1,4 +1,4 @@
-![Image](selfie_lab_unifr.jpg)
+![Image](2023_12_Cande_ID32_1447_.jpg)
 Postdoc at:
 
 - [ID32 beamline](https://www.esrf.fr/ID32) of the European Synchrotron (ESRF)
